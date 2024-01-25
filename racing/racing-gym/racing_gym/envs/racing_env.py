@@ -16,7 +16,7 @@ class RacingEnv(gymnasium.Env):
     def __init__(self, expert_data):
         # action_spaceを定義
         self.action_space = spaces.Box(
-            low=np.array([-float(conf['steer_min']), float(conf['throttle_min'])]),
+            low=np.array([float(conf['steer_min']), float(conf['throttle_min'])]),
             high=np.array([float(conf['steer_max']), float(conf['throttle_max'])]),
             dtype=np.float32
         )
@@ -72,7 +72,7 @@ class RacingEnv(gymnasium.Env):
         reward = 0
         for i, action_name in enumerate(self.ACTION_NAME):
             reward += self.weight[action_name] * (action[i] - current_expert_data[i]) ** 2
-        return reward
+        return 1/(reward+1)
     
     def seed(self, seed=None):  # 今のところ使わない
         self.count += 1
