@@ -70,8 +70,20 @@ class RacingEnv1(gymnasium.Env):
     def calculate_reward(self, action, current_expert_data):
         # MSEを使用する
         reward = 0
-        for i, action_name in enumerate(self.ACTION_NAME):
-            reward += self.weight[action_name] * (action[i] - current_expert_data[i]) ** 2
+        # for i, action_name in enumerate(self.ACTION_NAME):
+        #     reward += self.weight[action_name] * (action[i] - current_expert_data[i]) ** 2
+        
+        normalized_action = np.zeros(2)
+        normalized_expert_action = np.zeros(2)
+        # sterrを正規化
+        normalized_action[0] = (action[0] + 1) / 2
+        normalized_expert_action[0] = (current_expert_data[0] + 1) / 2
+        # throttleを正規化
+        normalized_action[1] = action[1]
+        normalized_expert_action[1] = current_expert_data[1]
+        # MSEを計算
+        reward = np.linalg.norm(normalized_action - normalized_expert_action)
+        
         return 1/(reward+1)
     
     def seed(self, seed=None):  # 今のところ使わない
