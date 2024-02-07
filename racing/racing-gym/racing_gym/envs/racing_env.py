@@ -28,9 +28,11 @@ class RacingEnv(gymnasium.Env):
         # self.expert_data_path = expert_data_path
         # self.expert_data = load_expert_data(self.expert_data_path)
         self.expert_data = expert_data
+        self.dirctory = np.random.randint(len(self.expert_data))
+        print(self.dirctory)
 
         self.current_step = 0
-        self.total_step = len(self.expert_data['images'])
+        self.total_step = len(self.expert_data[self.dirctory]['images'])
 
         # rewardの重みを定義
         self.weight = {
@@ -44,7 +46,7 @@ class RacingEnv(gymnasium.Env):
 
     def step(self, action):
         # expert_dataから対応するステップのデータを取得する
-        current_expert_data = self.expert_data['actions'][self.current_step]
+        current_expert_data = self.expert_data[self.dirctory]['actions'][self.current_step]
 
         # rewradを計算する(模倣学習では採用されない)
         # MSEを使用する
@@ -63,7 +65,7 @@ class RacingEnv(gymnasium.Env):
         info = {}
 
         # 次のobservationを定義
-        next_observation = self.expert_data['images'][self.current_step]
+        next_observation = self.expert_data[self.dirctory]['images'][self.current_step]
 
         return next_observation, reward, done, truncated, info, 
 
@@ -84,7 +86,7 @@ class RacingEnv(gymnasium.Env):
 
         # infoを定義（箱だけ）
         info = {}
-        return self.expert_data['images'][self.current_step], info
+        return self.expert_data[self.dirctory]['images'][self.current_step], info
     
     def expert_data(self):
         return self.expert_data
