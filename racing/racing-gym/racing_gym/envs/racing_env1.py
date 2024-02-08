@@ -100,7 +100,9 @@ class RacingEnv1(gymnasium.Env):
         # infoを定義（箱だけ）
         info = {}
 
-        print(len(self.expert_data[self.dirctory]))
+        self.dirctory = np.random.randint(len(self.expert_data))
+        self.total_step = len(self.expert_data[self.dirctory]['images'])
+        print(self.dirctory)
         return self.expert_data[self.dirctory]['images'][self.current_step], info
     
     def expert_data(self):

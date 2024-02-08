@@ -1,0 +1,2100 @@
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 23       |
+|    ent_loss       | -0.00279 |
+|    entropy        | 2.79     |
+|    epoch          | 1        |
+|    l2_loss        | 0        |
+|    l2_norm        | 470      |
+|    loss           | 1.89     |
+|    neglogp        | 1.9      |
+|    prob_true_act  | 0.152    |
+|    samples_so_far | 49152    |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 47       |
+|    ent_loss       | -0.00274 |
+|    entropy        | 2.74     |
+|    epoch          | 2        |
+|    l2_loss        | 0        |
+|    l2_norm        | 490      |
+|    loss           | 1.81     |
+|    neglogp        | 1.82     |
+|    prob_true_act  | 0.164    |
+|    samples_so_far | 98304    |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 71       |
+|    ent_loss       | -0.00269 |
+|    entropy        | 2.69     |
+|    epoch          | 3        |
+|    l2_loss        | 0        |
+|    l2_norm        | 503      |
+|    loss           | 1.77     |
+|    neglogp        | 1.77     |
+|    prob_true_act  | 0.172    |
+|    samples_so_far | 147456   |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 95       |
+|    ent_loss       | -0.00264 |
+|    entropy        | 2.64     |
+|    epoch          | 4        |
+|    l2_loss        | 0        |
+|    l2_norm        | 515      |
+|    loss           | 1.72     |
+|    neglogp        | 1.72     |
+|    prob_true_act  | 0.181    |
+|    samples_so_far | 196608   |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 119      |
+|    ent_loss       | -0.00259 |
+|    entropy        | 2.59     |
+|    epoch          | 5        |
+|    l2_loss        | 0        |
+|    l2_norm        | 524      |
+|    loss           | 1.67     |
+|    neglogp        | 1.67     |
+|    prob_true_act  | 0.189    |
+|    samples_so_far | 245760   |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 143      |
+|    ent_loss       | -0.00254 |
+|    entropy        | 2.54     |
+|    epoch          | 6        |
+|    l2_loss        | 0        |
+|    l2_norm        | 533      |
+|    loss           | 1.63     |
+|    neglogp        | 1.63     |
+|    prob_true_act  | 0.199    |
+|    samples_so_far | 294912   |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 167      |
+|    ent_loss       | -0.00249 |
+|    entropy        | 2.49     |
+|    epoch          | 7        |
+|    l2_loss        | 0        |
+|    l2_norm        | 542      |
+|    loss           | 1.58     |
+|    neglogp        | 1.59     |
+|    prob_true_act  | 0.207    |
+|    samples_so_far | 344064   |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 191      |
+|    ent_loss       | -0.00244 |
+|    entropy        | 2.44     |
+|    epoch          | 8        |
+|    l2_loss        | 0        |
+|    l2_norm        | 551      |
+|    loss           | 1.54     |
+|    neglogp        | 1.54     |
+|    prob_true_act  | 0.217    |
+|    samples_so_far | 393216   |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 215      |
+|    ent_loss       | -0.0024  |
+|    entropy        | 2.4      |
+|    epoch          | 9        |
+|    l2_loss        | 0        |
+|    l2_norm        | 560      |
+|    loss           | 1.49     |
+|    neglogp        | 1.49     |
+|    prob_true_act  | 0.229    |
+|    samples_so_far | 442368   |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 239      |
+|    ent_loss       | -0.00235 |
+|    entropy        | 2.35     |
+|    epoch          | 10       |
+|    l2_loss        | 0        |
+|    l2_norm        | 569      |
+|    loss           | 1.45     |
+|    neglogp        | 1.45     |
+|    prob_true_act  | 0.238    |
+|    samples_so_far | 491520   |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 263      |
+|    ent_loss       | -0.0023  |
+|    entropy        | 2.3      |
+|    epoch          | 11       |
+|    l2_loss        | 0        |
+|    l2_norm        | 578      |
+|    loss           | 1.41     |
+|    neglogp        | 1.41     |
+|    prob_true_act  | 0.249    |
+|    samples_so_far | 540672   |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 287      |
+|    ent_loss       | -0.00225 |
+|    entropy        | 2.25     |
+|    epoch          | 12       |
+|    l2_loss        | 0        |
+|    l2_norm        | 587      |
+|    loss           | 1.37     |
+|    neglogp        | 1.37     |
+|    prob_true_act  | 0.26     |
+|    samples_so_far | 589824   |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 311      |
+|    ent_loss       | -0.00221 |
+|    entropy        | 2.21     |
+|    epoch          | 13       |
+|    l2_loss        | 0        |
+|    l2_norm        | 596      |
+|    loss           | 1.33     |
+|    neglogp        | 1.33     |
+|    prob_true_act  | 0.271    |
+|    samples_so_far | 638976   |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 335      |
+|    ent_loss       | -0.00216 |
+|    entropy        | 2.16     |
+|    epoch          | 14       |
+|    l2_loss        | 0        |
+|    l2_norm        | 609      |
+|    loss           | 1.29     |
+|    neglogp        | 1.29     |
+|    prob_true_act  | 0.281    |
+|    samples_so_far | 688128   |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 359      |
+|    ent_loss       | -0.00211 |
+|    entropy        | 2.11     |
+|    epoch          | 15       |
+|    l2_loss        | 0        |
+|    l2_norm        | 620      |
+|    loss           | 1.24     |
+|    neglogp        | 1.24     |
+|    prob_true_act  | 0.296    |
+|    samples_so_far | 737280   |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 383      |
+|    ent_loss       | -0.00207 |
+|    entropy        | 2.07     |
+|    epoch          | 16       |
+|    l2_loss        | 0        |
+|    l2_norm        | 632      |
+|    loss           | 1.19     |
+|    neglogp        | 1.2      |
+|    prob_true_act  | 0.31     |
+|    samples_so_far | 786432   |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 407      |
+|    ent_loss       | -0.00202 |
+|    entropy        | 2.02     |
+|    epoch          | 17       |
+|    l2_loss        | 0        |
+|    l2_norm        | 646      |
+|    loss           | 1.17     |
+|    neglogp        | 1.17     |
+|    prob_true_act  | 0.32     |
+|    samples_so_far | 835584   |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 431      |
+|    ent_loss       | -0.00197 |
+|    entropy        | 1.97     |
+|    epoch          | 18       |
+|    l2_loss        | 0        |
+|    l2_norm        | 661      |
+|    loss           | 1.12     |
+|    neglogp        | 1.12     |
+|    prob_true_act  | 0.338    |
+|    samples_so_far | 884736   |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 455      |
+|    ent_loss       | -0.00193 |
+|    entropy        | 1.93     |
+|    epoch          | 19       |
+|    l2_loss        | 0        |
+|    l2_norm        | 678      |
+|    loss           | 1.09     |
+|    neglogp        | 1.09     |
+|    prob_true_act  | 0.345    |
+|    samples_so_far | 933888   |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 479      |
+|    ent_loss       | -0.00188 |
+|    entropy        | 1.88     |
+|    epoch          | 20       |
+|    l2_loss        | 0        |
+|    l2_norm        | 695      |
+|    loss           | 1.03     |
+|    neglogp        | 1.04     |
+|    prob_true_act  | 0.366    |
+|    samples_so_far | 983040   |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 503      |
+|    ent_loss       | -0.00184 |
+|    entropy        | 1.84     |
+|    epoch          | 21       |
+|    l2_loss        | 0        |
+|    l2_norm        | 713      |
+|    loss           | 1.01     |
+|    neglogp        | 1.01     |
+|    prob_true_act  | 0.377    |
+|    samples_so_far | 1032192  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 527      |
+|    ent_loss       | -0.00179 |
+|    entropy        | 1.79     |
+|    epoch          | 22       |
+|    l2_loss        | 0        |
+|    l2_norm        | 732      |
+|    loss           | 0.965    |
+|    neglogp        | 0.967    |
+|    prob_true_act  | 0.395    |
+|    samples_so_far | 1081344  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 551      |
+|    ent_loss       | -0.00175 |
+|    entropy        | 1.75     |
+|    epoch          | 23       |
+|    l2_loss        | 0        |
+|    l2_norm        | 753      |
+|    loss           | 1.04     |
+|    neglogp        | 1.04     |
+|    prob_true_act  | 0.363    |
+|    samples_so_far | 1130496  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 575      |
+|    ent_loss       | -0.00171 |
+|    entropy        | 1.71     |
+|    epoch          | 24       |
+|    l2_loss        | 0        |
+|    l2_norm        | 778      |
+|    loss           | 0.923    |
+|    neglogp        | 0.924    |
+|    prob_true_act  | 0.413    |
+|    samples_so_far | 1179648  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 599      |
+|    ent_loss       | -0.00167 |
+|    entropy        | 1.67     |
+|    epoch          | 25       |
+|    l2_loss        | 0        |
+|    l2_norm        | 788      |
+|    loss           | 0.861    |
+|    neglogp        | 0.862    |
+|    prob_true_act  | 0.443    |
+|    samples_so_far | 1228800  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 623      |
+|    ent_loss       | -0.00162 |
+|    entropy        | 1.62     |
+|    epoch          | 26       |
+|    l2_loss        | 0        |
+|    l2_norm        | 792      |
+|    loss           | 0.818    |
+|    neglogp        | 0.819    |
+|    prob_true_act  | 0.458    |
+|    samples_so_far | 1277952  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 647      |
+|    ent_loss       | -0.00158 |
+|    entropy        | 1.58     |
+|    epoch          | 27       |
+|    l2_loss        | 0        |
+|    l2_norm        | 795      |
+|    loss           | 0.783    |
+|    neglogp        | 0.785    |
+|    prob_true_act  | 0.479    |
+|    samples_so_far | 1327104  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 671      |
+|    ent_loss       | -0.00154 |
+|    entropy        | 1.54     |
+|    epoch          | 28       |
+|    l2_loss        | 0        |
+|    l2_norm        | 798      |
+|    loss           | 0.749    |
+|    neglogp        | 0.751    |
+|    prob_true_act  | 0.5      |
+|    samples_so_far | 1376256  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 695      |
+|    ent_loss       | -0.00149 |
+|    entropy        | 1.49     |
+|    epoch          | 29       |
+|    l2_loss        | 0        |
+|    l2_norm        | 800      |
+|    loss           | 0.742    |
+|    neglogp        | 0.744    |
+|    prob_true_act  | 0.507    |
+|    samples_so_far | 1425408  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 719      |
+|    ent_loss       | -0.00145 |
+|    entropy        | 1.45     |
+|    epoch          | 30       |
+|    l2_loss        | 0        |
+|    l2_norm        | 803      |
+|    loss           | 0.696    |
+|    neglogp        | 0.697    |
+|    prob_true_act  | 0.534    |
+|    samples_so_far | 1474560  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 743      |
+|    ent_loss       | -0.00141 |
+|    entropy        | 1.41     |
+|    epoch          | 31       |
+|    l2_loss        | 0        |
+|    l2_norm        | 806      |
+|    loss           | 0.664    |
+|    neglogp        | 0.665    |
+|    prob_true_act  | 0.559    |
+|    samples_so_far | 1523712  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 767      |
+|    ent_loss       | -0.00137 |
+|    entropy        | 1.37     |
+|    epoch          | 32       |
+|    l2_loss        | 0        |
+|    l2_norm        | 807      |
+|    loss           | 0.618    |
+|    neglogp        | 0.619    |
+|    prob_true_act  | 0.577    |
+|    samples_so_far | 1572864  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 791      |
+|    ent_loss       | -0.00132 |
+|    entropy        | 1.32     |
+|    epoch          | 33       |
+|    l2_loss        | 0        |
+|    l2_norm        | 809      |
+|    loss           | 0.588    |
+|    neglogp        | 0.59     |
+|    prob_true_act  | 0.598    |
+|    samples_so_far | 1622016  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 815      |
+|    ent_loss       | -0.00128 |
+|    entropy        | 1.28     |
+|    epoch          | 34       |
+|    l2_loss        | 0        |
+|    l2_norm        | 811      |
+|    loss           | 0.562    |
+|    neglogp        | 0.563    |
+|    prob_true_act  | 0.617    |
+|    samples_so_far | 1671168  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 839      |
+|    ent_loss       | -0.00124 |
+|    entropy        | 1.24     |
+|    epoch          | 35       |
+|    l2_loss        | 0        |
+|    l2_norm        | 813      |
+|    loss           | 0.506    |
+|    neglogp        | 0.507    |
+|    prob_true_act  | 0.648    |
+|    samples_so_far | 1720320  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 863      |
+|    ent_loss       | -0.0012  |
+|    entropy        | 1.2      |
+|    epoch          | 36       |
+|    l2_loss        | 0        |
+|    l2_norm        | 815      |
+|    loss           | 0.494    |
+|    neglogp        | 0.495    |
+|    prob_true_act  | 0.667    |
+|    samples_so_far | 1769472  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 887      |
+|    ent_loss       | -0.00116 |
+|    entropy        | 1.16     |
+|    epoch          | 37       |
+|    l2_loss        | 0        |
+|    l2_norm        | 817      |
+|    loss           | 0.489    |
+|    neglogp        | 0.49     |
+|    prob_true_act  | 0.681    |
+|    samples_so_far | 1818624  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 911      |
+|    ent_loss       | -0.00112 |
+|    entropy        | 1.12     |
+|    epoch          | 38       |
+|    l2_loss        | 0        |
+|    l2_norm        | 820      |
+|    loss           | 0.428    |
+|    neglogp        | 0.429    |
+|    prob_true_act  | 0.716    |
+|    samples_so_far | 1867776  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 935      |
+|    ent_loss       | -0.00108 |
+|    entropy        | 1.08     |
+|    epoch          | 39       |
+|    l2_loss        | 0        |
+|    l2_norm        | 823      |
+|    loss           | 0.417    |
+|    neglogp        | 0.418    |
+|    prob_true_act  | 0.738    |
+|    samples_so_far | 1916928  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 959      |
+|    ent_loss       | -0.00105 |
+|    entropy        | 1.05     |
+|    epoch          | 40       |
+|    l2_loss        | 0        |
+|    l2_norm        | 828      |
+|    loss           | 0.39     |
+|    neglogp        | 0.391    |
+|    prob_true_act  | 0.757    |
+|    samples_so_far | 1966080  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 983      |
+|    ent_loss       | -0.00101 |
+|    entropy        | 1.01     |
+|    epoch          | 41       |
+|    l2_loss        | 0        |
+|    l2_norm        | 835      |
+|    loss           | 0.35     |
+|    neglogp        | 0.351    |
+|    prob_true_act  | 0.791    |
+|    samples_so_far | 2015232  |
+--------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1007      |
+|    ent_loss       | -0.000971 |
+|    entropy        | 0.971     |
+|    epoch          | 42        |
+|    l2_loss        | 0         |
+|    l2_norm        | 843       |
+|    loss           | 0.317     |
+|    neglogp        | 0.318     |
+|    prob_true_act  | 0.817     |
+|    samples_so_far | 2064384   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1031      |
+|    ent_loss       | -0.000935 |
+|    entropy        | 0.935     |
+|    epoch          | 43        |
+|    l2_loss        | 0         |
+|    l2_norm        | 852       |
+|    loss           | 0.298     |
+|    neglogp        | 0.299     |
+|    prob_true_act  | 0.83      |
+|    samples_so_far | 2113536   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1055      |
+|    ent_loss       | -0.000899 |
+|    entropy        | 0.899     |
+|    epoch          | 44        |
+|    l2_loss        | 0         |
+|    l2_norm        | 861       |
+|    loss           | 0.29      |
+|    neglogp        | 0.291     |
+|    prob_true_act  | 0.857     |
+|    samples_so_far | 2162688   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1079      |
+|    ent_loss       | -0.000863 |
+|    entropy        | 0.863     |
+|    epoch          | 45        |
+|    l2_loss        | 0         |
+|    l2_norm        | 872       |
+|    loss           | 0.265     |
+|    neglogp        | 0.266     |
+|    prob_true_act  | 0.881     |
+|    samples_so_far | 2211840   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1103      |
+|    ent_loss       | -0.000828 |
+|    entropy        | 0.828     |
+|    epoch          | 46        |
+|    l2_loss        | 0         |
+|    l2_norm        | 883       |
+|    loss           | 0.222     |
+|    neglogp        | 0.223     |
+|    prob_true_act  | 0.906     |
+|    samples_so_far | 2260992   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1127      |
+|    ent_loss       | -0.000794 |
+|    entropy        | 0.794     |
+|    epoch          | 47        |
+|    l2_loss        | 0         |
+|    l2_norm        | 896       |
+|    loss           | 0.199     |
+|    neglogp        | 0.2       |
+|    prob_true_act  | 0.959     |
+|    samples_so_far | 2310144   |
+---------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 1151     |
+|    ent_loss       | -0.00076 |
+|    entropy        | 0.76     |
+|    epoch          | 48       |
+|    l2_loss        | 0        |
+|    l2_norm        | 908      |
+|    loss           | 0.18     |
+|    neglogp        | 0.181    |
+|    prob_true_act  | 0.97     |
+|    samples_so_far | 2359296  |
+--------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1175      |
+|    ent_loss       | -0.000727 |
+|    entropy        | 0.727     |
+|    epoch          | 49        |
+|    l2_loss        | 0         |
+|    l2_norm        | 923       |
+|    loss           | 0.18      |
+|    neglogp        | 0.181     |
+|    prob_true_act  | 0.985     |
+|    samples_so_far | 2408448   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1199      |
+|    ent_loss       | -0.000694 |
+|    entropy        | 0.694     |
+|    epoch          | 50        |
+|    l2_loss        | 0         |
+|    l2_norm        | 940       |
+|    loss           | 0.151     |
+|    neglogp        | 0.152     |
+|    prob_true_act  | 1.02      |
+|    samples_so_far | 2457600   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1223      |
+|    ent_loss       | -0.000662 |
+|    entropy        | 0.662     |
+|    epoch          | 51        |
+|    l2_loss        | 0         |
+|    l2_norm        | 959       |
+|    loss           | 0.124     |
+|    neglogp        | 0.125     |
+|    prob_true_act  | 1.06      |
+|    samples_so_far | 2506752   |
+---------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 1247     |
+|    ent_loss       | -0.00063 |
+|    entropy        | 0.63     |
+|    epoch          | 52       |
+|    l2_loss        | 0        |
+|    l2_norm        | 979      |
+|    loss           | 0.0463   |
+|    neglogp        | 0.0469   |
+|    prob_true_act  | 1.11     |
+|    samples_so_far | 2555904  |
+--------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1271      |
+|    ent_loss       | -0.000599 |
+|    entropy        | 0.599     |
+|    epoch          | 53        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1e+03     |
+|    loss           | 0.0515    |
+|    neglogp        | 0.0521    |
+|    prob_true_act  | 1.14      |
+|    samples_so_far | 2605056   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1295      |
+|    ent_loss       | -0.000568 |
+|    entropy        | 0.568     |
+|    epoch          | 54        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1.03e+03  |
+|    loss           | 0.00871   |
+|    neglogp        | 0.00927   |
+|    prob_true_act  | 1.2       |
+|    samples_so_far | 2654208   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1319      |
+|    ent_loss       | -0.000537 |
+|    entropy        | 0.537     |
+|    epoch          | 55        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1.06e+03  |
+|    loss           | 0.00435   |
+|    neglogp        | 0.00489   |
+|    prob_true_act  | 1.18      |
+|    samples_so_far | 2703360   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1343      |
+|    ent_loss       | -0.000507 |
+|    entropy        | 0.507     |
+|    epoch          | 56        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1.09e+03  |
+|    loss           | -0.019    |
+|    neglogp        | -0.0185   |
+|    prob_true_act  | 1.23      |
+|    samples_so_far | 2752512   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1367      |
+|    ent_loss       | -0.000478 |
+|    entropy        | 0.478     |
+|    epoch          | 57        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1.12e+03  |
+|    loss           | -0.0207   |
+|    neglogp        | -0.0202   |
+|    prob_true_act  | 1.25      |
+|    samples_so_far | 2801664   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1391      |
+|    ent_loss       | -0.000448 |
+|    entropy        | 0.448     |
+|    epoch          | 58        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1.16e+03  |
+|    loss           | -0.0348   |
+|    neglogp        | -0.0343   |
+|    prob_true_act  | 1.29      |
+|    samples_so_far | 2850816   |
+---------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 1415     |
+|    ent_loss       | -0.00042 |
+|    entropy        | 0.42     |
+|    epoch          | 59       |
+|    l2_loss        | 0        |
+|    l2_norm        | 1.2e+03  |
+|    loss           | -0.0438  |
+|    neglogp        | -0.0434  |
+|    prob_true_act  | 1.3      |
+|    samples_so_far | 2899968  |
+--------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1439      |
+|    ent_loss       | -0.000391 |
+|    entropy        | 0.391     |
+|    epoch          | 60        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1.25e+03  |
+|    loss           | -0.0864   |
+|    neglogp        | -0.086    |
+|    prob_true_act  | 1.37      |
+|    samples_so_far | 2949120   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1463      |
+|    ent_loss       | -0.000363 |
+|    entropy        | 0.363     |
+|    epoch          | 61        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1.29e+03  |
+|    loss           | -0.0887   |
+|    neglogp        | -0.0883   |
+|    prob_true_act  | 1.37      |
+|    samples_so_far | 2998272   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1487      |
+|    ent_loss       | -0.000335 |
+|    entropy        | 0.335     |
+|    epoch          | 62        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1.33e+03  |
+|    loss           | -0.167    |
+|    neglogp        | -0.167    |
+|    prob_true_act  | 1.42      |
+|    samples_so_far | 3047424   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1511      |
+|    ent_loss       | -0.000308 |
+|    entropy        | 0.308     |
+|    epoch          | 63        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1.37e+03  |
+|    loss           | -0.125    |
+|    neglogp        | -0.125    |
+|    prob_true_act  | 1.45      |
+|    samples_so_far | 3096576   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1535      |
+|    ent_loss       | -0.000281 |
+|    entropy        | 0.281     |
+|    epoch          | 64        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1.4e+03   |
+|    loss           | -0.185    |
+|    neglogp        | -0.185    |
+|    prob_true_act  | 1.5       |
+|    samples_so_far | 3145728   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1559      |
+|    ent_loss       | -0.000254 |
+|    entropy        | 0.254     |
+|    epoch          | 65        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1.43e+03  |
+|    loss           | -0.194    |
+|    neglogp        | -0.194    |
+|    prob_true_act  | 1.5       |
+|    samples_so_far | 3194880   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1583      |
+|    ent_loss       | -0.000227 |
+|    entropy        | 0.227     |
+|    epoch          | 66        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1.46e+03  |
+|    loss           | -0.215    |
+|    neglogp        | -0.215    |
+|    prob_true_act  | 1.5       |
+|    samples_so_far | 3244032   |
+---------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 1607     |
+|    ent_loss       | -0.0002  |
+|    entropy        | 0.2      |
+|    epoch          | 67       |
+|    l2_loss        | 0        |
+|    l2_norm        | 1.49e+03 |
+|    loss           | -0.262   |
+|    neglogp        | -0.261   |
+|    prob_true_act  | 1.6      |
+|    samples_so_far | 3293184  |
+--------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1631      |
+|    ent_loss       | -0.000174 |
+|    entropy        | 0.174     |
+|    epoch          | 68        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1.53e+03  |
+|    loss           | -0.273    |
+|    neglogp        | -0.273    |
+|    prob_true_act  | 1.61      |
+|    samples_so_far | 3342336   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1655      |
+|    ent_loss       | -0.000147 |
+|    entropy        | 0.147     |
+|    epoch          | 69        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1.56e+03  |
+|    loss           | -0.297    |
+|    neglogp        | -0.297    |
+|    prob_true_act  | 1.69      |
+|    samples_so_far | 3391488   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1679      |
+|    ent_loss       | -0.000121 |
+|    entropy        | 0.121     |
+|    epoch          | 70        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1.6e+03   |
+|    loss           | -0.273    |
+|    neglogp        | -0.273    |
+|    prob_true_act  | 1.69      |
+|    samples_so_far | 3440640   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1703      |
+|    ent_loss       | -9.56e-05 |
+|    entropy        | 0.0956    |
+|    epoch          | 71        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1.63e+03  |
+|    loss           | -0.335    |
+|    neglogp        | -0.335    |
+|    prob_true_act  | 1.79      |
+|    samples_so_far | 3489792   |
+---------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1727      |
+|    ent_loss       | -6.96e-05 |
+|    entropy        | 0.0696    |
+|    epoch          | 72        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1.67e+03  |
+|    loss           | -0.346    |
+|    neglogp        | -0.346    |
+|    prob_true_act  | 1.82      |
+|    samples_so_far | 3538944   |
+---------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 1751     |
+|    ent_loss       | -4.4e-05 |
+|    entropy        | 0.044    |
+|    epoch          | 73       |
+|    l2_loss        | 0        |
+|    l2_norm        | 1.71e+03 |
+|    loss           | -0.376   |
+|    neglogp        | -0.376   |
+|    prob_true_act  | 1.88     |
+|    samples_so_far | 3588096  |
+--------------------------------
+---------------------------------
+| batch_size        | 2048      |
+| bc/               |           |
+|    batch          | 1775      |
+|    ent_loss       | -1.83e-05 |
+|    entropy        | 0.0183    |
+|    epoch          | 74        |
+|    l2_loss        | 0         |
+|    l2_norm        | 1.75e+03  |
+|    loss           | -0.391    |
+|    neglogp        | -0.391    |
+|    prob_true_act  | 1.91      |
+|    samples_so_far | 3637248   |
+---------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 1799     |
+|    ent_loss       | 6.57e-06 |
+|    entropy        | -0.00657 |
+|    epoch          | 75       |
+|    l2_loss        | 0        |
+|    l2_norm        | 1.8e+03  |
+|    loss           | -0.423   |
+|    neglogp        | -0.423   |
+|    prob_true_act  | 1.92     |
+|    samples_so_far | 3686400  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 1823     |
+|    ent_loss       | 3.14e-05 |
+|    entropy        | -0.0314  |
+|    epoch          | 76       |
+|    l2_loss        | 0        |
+|    l2_norm        | 1.84e+03 |
+|    loss           | -0.426   |
+|    neglogp        | -0.426   |
+|    prob_true_act  | 2.05     |
+|    samples_so_far | 3735552  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 1847     |
+|    ent_loss       | 5.68e-05 |
+|    entropy        | -0.0568  |
+|    epoch          | 77       |
+|    l2_loss        | 0        |
+|    l2_norm        | 1.88e+03 |
+|    loss           | -0.438   |
+|    neglogp        | -0.438   |
+|    prob_true_act  | 1.98     |
+|    samples_so_far | 3784704  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 1871     |
+|    ent_loss       | 8.12e-05 |
+|    entropy        | -0.0812  |
+|    epoch          | 78       |
+|    l2_loss        | 0        |
+|    l2_norm        | 1.92e+03 |
+|    loss           | -0.487   |
+|    neglogp        | -0.487   |
+|    prob_true_act  | 2.06     |
+|    samples_so_far | 3833856  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 1895     |
+|    ent_loss       | 0.000106 |
+|    entropy        | -0.106   |
+|    epoch          | 79       |
+|    l2_loss        | 0        |
+|    l2_norm        | 1.97e+03 |
+|    loss           | -0.471   |
+|    neglogp        | -0.472   |
+|    prob_true_act  | 2.07     |
+|    samples_so_far | 3883008  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 1919     |
+|    ent_loss       | 0.000129 |
+|    entropy        | -0.129   |
+|    epoch          | 80       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.01e+03 |
+|    loss           | -0.515   |
+|    neglogp        | -0.515   |
+|    prob_true_act  | 2.19     |
+|    samples_so_far | 3932160  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 1943     |
+|    ent_loss       | 0.000154 |
+|    entropy        | -0.154   |
+|    epoch          | 81       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.05e+03 |
+|    loss           | -0.505   |
+|    neglogp        | -0.505   |
+|    prob_true_act  | 2.15     |
+|    samples_so_far | 3981312  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 1967     |
+|    ent_loss       | 0.000178 |
+|    entropy        | -0.178   |
+|    epoch          | 82       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.09e+03 |
+|    loss           | -0.49    |
+|    neglogp        | -0.49    |
+|    prob_true_act  | 2.32     |
+|    samples_so_far | 4030464  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 1991     |
+|    ent_loss       | 0.000201 |
+|    entropy        | -0.201   |
+|    epoch          | 83       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.12e+03 |
+|    loss           | -0.615   |
+|    neglogp        | -0.615   |
+|    prob_true_act  | 2.32     |
+|    samples_so_far | 4079616  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2015     |
+|    ent_loss       | 0.000224 |
+|    entropy        | -0.224   |
+|    epoch          | 84       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.16e+03 |
+|    loss           | -0.53    |
+|    neglogp        | -0.53    |
+|    prob_true_act  | 2.26     |
+|    samples_so_far | 4128768  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2039     |
+|    ent_loss       | 0.000247 |
+|    entropy        | -0.247   |
+|    epoch          | 85       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.19e+03 |
+|    loss           | -0.605   |
+|    neglogp        | -0.605   |
+|    prob_true_act  | 2.39     |
+|    samples_so_far | 4177920  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2063     |
+|    ent_loss       | 0.000271 |
+|    entropy        | -0.271   |
+|    epoch          | 86       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.23e+03 |
+|    loss           | -0.622   |
+|    neglogp        | -0.622   |
+|    prob_true_act  | 2.48     |
+|    samples_so_far | 4227072  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2087     |
+|    ent_loss       | 0.000293 |
+|    entropy        | -0.293   |
+|    epoch          | 87       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.26e+03 |
+|    loss           | -0.589   |
+|    neglogp        | -0.589   |
+|    prob_true_act  | 2.52     |
+|    samples_so_far | 4276224  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2111     |
+|    ent_loss       | 0.000316 |
+|    entropy        | -0.316   |
+|    epoch          | 88       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.3e+03  |
+|    loss           | -0.628   |
+|    neglogp        | -0.628   |
+|    prob_true_act  | 2.66     |
+|    samples_so_far | 4325376  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2135     |
+|    ent_loss       | 0.000339 |
+|    entropy        | -0.339   |
+|    epoch          | 89       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.33e+03 |
+|    loss           | -0.647   |
+|    neglogp        | -0.648   |
+|    prob_true_act  | 2.56     |
+|    samples_so_far | 4374528  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2159     |
+|    ent_loss       | 0.000361 |
+|    entropy        | -0.361   |
+|    epoch          | 90       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.36e+03 |
+|    loss           | -0.602   |
+|    neglogp        | -0.603   |
+|    prob_true_act  | 2.61     |
+|    samples_so_far | 4423680  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2183     |
+|    ent_loss       | 0.000381 |
+|    entropy        | -0.381   |
+|    epoch          | 91       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.39e+03 |
+|    loss           | -0.648   |
+|    neglogp        | -0.648   |
+|    prob_true_act  | 2.54     |
+|    samples_so_far | 4472832  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2207     |
+|    ent_loss       | 0.000402 |
+|    entropy        | -0.402   |
+|    epoch          | 92       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.42e+03 |
+|    loss           | -0.746   |
+|    neglogp        | -0.746   |
+|    prob_true_act  | 2.89     |
+|    samples_so_far | 4521984  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2231     |
+|    ent_loss       | 0.000423 |
+|    entropy        | -0.423   |
+|    epoch          | 93       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.45e+03 |
+|    loss           | -0.733   |
+|    neglogp        | -0.734   |
+|    prob_true_act  | 2.78     |
+|    samples_so_far | 4571136  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2255     |
+|    ent_loss       | 0.000444 |
+|    entropy        | -0.444   |
+|    epoch          | 94       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.48e+03 |
+|    loss           | -0.759   |
+|    neglogp        | -0.759   |
+|    prob_true_act  | 2.92     |
+|    samples_so_far | 4620288  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2279     |
+|    ent_loss       | 0.000464 |
+|    entropy        | -0.464   |
+|    epoch          | 95       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.51e+03 |
+|    loss           | -0.705   |
+|    neglogp        | -0.705   |
+|    prob_true_act  | 3.02     |
+|    samples_so_far | 4669440  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2303     |
+|    ent_loss       | 0.000484 |
+|    entropy        | -0.484   |
+|    epoch          | 96       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.54e+03 |
+|    loss           | -0.795   |
+|    neglogp        | -0.796   |
+|    prob_true_act  | 3.07     |
+|    samples_so_far | 4718592  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2327     |
+|    ent_loss       | 0.000504 |
+|    entropy        | -0.504   |
+|    epoch          | 97       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.56e+03 |
+|    loss           | -0.755   |
+|    neglogp        | -0.755   |
+|    prob_true_act  | 3.13     |
+|    samples_so_far | 4767744  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2351     |
+|    ent_loss       | 0.000524 |
+|    entropy        | -0.524   |
+|    epoch          | 98       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.59e+03 |
+|    loss           | -0.826   |
+|    neglogp        | -0.826   |
+|    prob_true_act  | 3.11     |
+|    samples_so_far | 4816896  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2375     |
+|    ent_loss       | 0.000543 |
+|    entropy        | -0.543   |
+|    epoch          | 99       |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.62e+03 |
+|    loss           | -0.781   |
+|    neglogp        | -0.782   |
+|    prob_true_act  | 3.29     |
+|    samples_so_far | 4866048  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2399     |
+|    ent_loss       | 0.000561 |
+|    entropy        | -0.561   |
+|    epoch          | 100      |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.64e+03 |
+|    loss           | -0.769   |
+|    neglogp        | -0.77    |
+|    prob_true_act  | 3.11     |
+|    samples_so_far | 4915200  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2423     |
+|    ent_loss       | 0.000579 |
+|    entropy        | -0.579   |
+|    epoch          | 101      |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.67e+03 |
+|    loss           | -0.792   |
+|    neglogp        | -0.792   |
+|    prob_true_act  | 3.28     |
+|    samples_so_far | 4964352  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2447     |
+|    ent_loss       | 0.000596 |
+|    entropy        | -0.596   |
+|    epoch          | 102      |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.69e+03 |
+|    loss           | -0.792   |
+|    neglogp        | -0.793   |
+|    prob_true_act  | 3.31     |
+|    samples_so_far | 5013504  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2471     |
+|    ent_loss       | 0.000613 |
+|    entropy        | -0.613   |
+|    epoch          | 103      |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.71e+03 |
+|    loss           | -0.738   |
+|    neglogp        | -0.739   |
+|    prob_true_act  | 3.14     |
+|    samples_so_far | 5062656  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2495     |
+|    ent_loss       | 0.000631 |
+|    entropy        | -0.631   |
+|    epoch          | 104      |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.74e+03 |
+|    loss           | -0.786   |
+|    neglogp        | -0.786   |
+|    prob_true_act  | 3.42     |
+|    samples_so_far | 5111808  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2519     |
+|    ent_loss       | 0.000648 |
+|    entropy        | -0.648   |
+|    epoch          | 105      |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.76e+03 |
+|    loss           | -0.87    |
+|    neglogp        | -0.871   |
+|    prob_true_act  | 3.48     |
+|    samples_so_far | 5160960  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2543     |
+|    ent_loss       | 0.000665 |
+|    entropy        | -0.665   |
+|    epoch          | 106      |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.78e+03 |
+|    loss           | -0.758   |
+|    neglogp        | -0.759   |
+|    prob_true_act  | 3.45     |
+|    samples_so_far | 5210112  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2567     |
+|    ent_loss       | 0.000679 |
+|    entropy        | -0.679   |
+|    epoch          | 107      |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.8e+03  |
+|    loss           | -0.833   |
+|    neglogp        | -0.834   |
+|    prob_true_act  | 3.65     |
+|    samples_so_far | 5259264  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2591     |
+|    ent_loss       | 0.000693 |
+|    entropy        | -0.693   |
+|    epoch          | 108      |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.83e+03 |
+|    loss           | -0.851   |
+|    neglogp        | -0.852   |
+|    prob_true_act  | 3.67     |
+|    samples_so_far | 5308416  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2615     |
+|    ent_loss       | 0.000708 |
+|    entropy        | -0.708   |
+|    epoch          | 109      |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.85e+03 |
+|    loss           | -0.902   |
+|    neglogp        | -0.903   |
+|    prob_true_act  | 3.7      |
+|    samples_so_far | 5357568  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2639     |
+|    ent_loss       | 0.000723 |
+|    entropy        | -0.723   |
+|    epoch          | 110      |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.87e+03 |
+|    loss           | -0.937   |
+|    neglogp        | -0.937   |
+|    prob_true_act  | 3.56     |
+|    samples_so_far | 5406720  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2663     |
+|    ent_loss       | 0.000736 |
+|    entropy        | -0.736   |
+|    epoch          | 111      |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.89e+03 |
+|    loss           | -0.916   |
+|    neglogp        | -0.917   |
+|    prob_true_act  | 3.74     |
+|    samples_so_far | 5455872  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2687     |
+|    ent_loss       | 0.00075  |
+|    entropy        | -0.75    |
+|    epoch          | 112      |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.91e+03 |
+|    loss           | -0.877   |
+|    neglogp        | -0.878   |
+|    prob_true_act  | 3.72     |
+|    samples_so_far | 5505024  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2711     |
+|    ent_loss       | 0.000764 |
+|    entropy        | -0.764   |
+|    epoch          | 113      |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.93e+03 |
+|    loss           | -0.926   |
+|    neglogp        | -0.927   |
+|    prob_true_act  | 3.88     |
+|    samples_so_far | 5554176  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2735     |
+|    ent_loss       | 0.000777 |
+|    entropy        | -0.777   |
+|    epoch          | 114      |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.95e+03 |
+|    loss           | -0.869   |
+|    neglogp        | -0.87    |
+|    prob_true_act  | 3.94     |
+|    samples_so_far | 5603328  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2759     |
+|    ent_loss       | 0.000788 |
+|    entropy        | -0.788   |
+|    epoch          | 115      |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.97e+03 |
+|    loss           | -0.904   |
+|    neglogp        | -0.905   |
+|    prob_true_act  | 4        |
+|    samples_so_far | 5652480  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2783     |
+|    ent_loss       | 0.0008   |
+|    entropy        | -0.8     |
+|    epoch          | 116      |
+|    l2_loss        | 0        |
+|    l2_norm        | 2.99e+03 |
+|    loss           | -0.788   |
+|    neglogp        | -0.789   |
+|    prob_true_act  | 3.98     |
+|    samples_so_far | 5701632  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2807     |
+|    ent_loss       | 0.000811 |
+|    entropy        | -0.811   |
+|    epoch          | 117      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.01e+03 |
+|    loss           | -0.958   |
+|    neglogp        | -0.959   |
+|    prob_true_act  | 4.19     |
+|    samples_so_far | 5750784  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2831     |
+|    ent_loss       | 0.000823 |
+|    entropy        | -0.823   |
+|    epoch          | 118      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.02e+03 |
+|    loss           | -0.968   |
+|    neglogp        | -0.968   |
+|    prob_true_act  | 4.17     |
+|    samples_so_far | 5799936  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2855     |
+|    ent_loss       | 0.000833 |
+|    entropy        | -0.833   |
+|    epoch          | 119      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.04e+03 |
+|    loss           | -1.01    |
+|    neglogp        | -1.01    |
+|    prob_true_act  | 4.09     |
+|    samples_so_far | 5849088  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2879     |
+|    ent_loss       | 0.000843 |
+|    entropy        | -0.843   |
+|    epoch          | 120      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.06e+03 |
+|    loss           | -0.849   |
+|    neglogp        | -0.85    |
+|    prob_true_act  | 4.16     |
+|    samples_so_far | 5898240  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2903     |
+|    ent_loss       | 0.000853 |
+|    entropy        | -0.853   |
+|    epoch          | 121      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.07e+03 |
+|    loss           | -0.886   |
+|    neglogp        | -0.887   |
+|    prob_true_act  | 4.12     |
+|    samples_so_far | 5947392  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2927     |
+|    ent_loss       | 0.000863 |
+|    entropy        | -0.863   |
+|    epoch          | 122      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.09e+03 |
+|    loss           | -1       |
+|    neglogp        | -1       |
+|    prob_true_act  | 4.27     |
+|    samples_so_far | 5996544  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2951     |
+|    ent_loss       | 0.000873 |
+|    entropy        | -0.873   |
+|    epoch          | 123      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.1e+03  |
+|    loss           | -0.923   |
+|    neglogp        | -0.924   |
+|    prob_true_act  | 4.14     |
+|    samples_so_far | 6045696  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2975     |
+|    ent_loss       | 0.000881 |
+|    entropy        | -0.881   |
+|    epoch          | 124      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.12e+03 |
+|    loss           | -1       |
+|    neglogp        | -1.01    |
+|    prob_true_act  | 4.38     |
+|    samples_so_far | 6094848  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 2999     |
+|    ent_loss       | 0.000889 |
+|    entropy        | -0.889   |
+|    epoch          | 125      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.14e+03 |
+|    loss           | -1       |
+|    neglogp        | -1       |
+|    prob_true_act  | 4.36     |
+|    samples_so_far | 6144000  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3023     |
+|    ent_loss       | 0.000899 |
+|    entropy        | -0.899   |
+|    epoch          | 126      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.15e+03 |
+|    loss           | -0.987   |
+|    neglogp        | -0.988   |
+|    prob_true_act  | 4.52     |
+|    samples_so_far | 6193152  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3047     |
+|    ent_loss       | 0.000907 |
+|    entropy        | -0.907   |
+|    epoch          | 127      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.16e+03 |
+|    loss           | -0.862   |
+|    neglogp        | -0.863   |
+|    prob_true_act  | 4.2      |
+|    samples_so_far | 6242304  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3071     |
+|    ent_loss       | 0.000914 |
+|    entropy        | -0.914   |
+|    epoch          | 128      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.18e+03 |
+|    loss           | -1.03    |
+|    neglogp        | -1.03    |
+|    prob_true_act  | 4.55     |
+|    samples_so_far | 6291456  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3095     |
+|    ent_loss       | 0.000922 |
+|    entropy        | -0.922   |
+|    epoch          | 129      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.19e+03 |
+|    loss           | -0.988   |
+|    neglogp        | -0.989   |
+|    prob_true_act  | 4.24     |
+|    samples_so_far | 6340608  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3119     |
+|    ent_loss       | 0.000929 |
+|    entropy        | -0.929   |
+|    epoch          | 130      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.21e+03 |
+|    loss           | -0.873   |
+|    neglogp        | -0.874   |
+|    prob_true_act  | 4.61     |
+|    samples_so_far | 6389760  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3143     |
+|    ent_loss       | 0.000935 |
+|    entropy        | -0.935   |
+|    epoch          | 131      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.22e+03 |
+|    loss           | -0.96    |
+|    neglogp        | -0.961   |
+|    prob_true_act  | 4.35     |
+|    samples_so_far | 6438912  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3167     |
+|    ent_loss       | 0.000939 |
+|    entropy        | -0.939   |
+|    epoch          | 132      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.24e+03 |
+|    loss           | -0.985   |
+|    neglogp        | -0.986   |
+|    prob_true_act  | 4.41     |
+|    samples_so_far | 6488064  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3191     |
+|    ent_loss       | 0.000944 |
+|    entropy        | -0.944   |
+|    epoch          | 133      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.27e+03 |
+|    loss           | -0.99    |
+|    neglogp        | -0.991   |
+|    prob_true_act  | 4.46     |
+|    samples_so_far | 6537216  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3215     |
+|    ent_loss       | 0.000951 |
+|    entropy        | -0.951   |
+|    epoch          | 134      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.28e+03 |
+|    loss           | -1.06    |
+|    neglogp        | -1.06    |
+|    prob_true_act  | 4.78     |
+|    samples_so_far | 6586368  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3239     |
+|    ent_loss       | 0.000958 |
+|    entropy        | -0.958   |
+|    epoch          | 135      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.29e+03 |
+|    loss           | -1.01    |
+|    neglogp        | -1.01    |
+|    prob_true_act  | 4.75     |
+|    samples_so_far | 6635520  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3263     |
+|    ent_loss       | 0.000963 |
+|    entropy        | -0.963   |
+|    epoch          | 136      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.3e+03  |
+|    loss           | -0.985   |
+|    neglogp        | -0.986   |
+|    prob_true_act  | 4.58     |
+|    samples_so_far | 6684672  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3287     |
+|    ent_loss       | 0.000968 |
+|    entropy        | -0.968   |
+|    epoch          | 137      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.32e+03 |
+|    loss           | -1.03    |
+|    neglogp        | -1.03    |
+|    prob_true_act  | 4.7      |
+|    samples_so_far | 6733824  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3311     |
+|    ent_loss       | 0.000973 |
+|    entropy        | -0.973   |
+|    epoch          | 138      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.33e+03 |
+|    loss           | -1.03    |
+|    neglogp        | -1.03    |
+|    prob_true_act  | 4.73     |
+|    samples_so_far | 6782976  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3335     |
+|    ent_loss       | 0.000978 |
+|    entropy        | -0.978   |
+|    epoch          | 139      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.34e+03 |
+|    loss           | -1.03    |
+|    neglogp        | -1.03    |
+|    prob_true_act  | 4.77     |
+|    samples_so_far | 6832128  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3359     |
+|    ent_loss       | 0.000983 |
+|    entropy        | -0.983   |
+|    epoch          | 140      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.35e+03 |
+|    loss           | -0.972   |
+|    neglogp        | -0.973   |
+|    prob_true_act  | 4.77     |
+|    samples_so_far | 6881280  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3383     |
+|    ent_loss       | 0.000988 |
+|    entropy        | -0.988   |
+|    epoch          | 141      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.36e+03 |
+|    loss           | -0.98    |
+|    neglogp        | -0.981   |
+|    prob_true_act  | 4.79     |
+|    samples_so_far | 6930432  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3407     |
+|    ent_loss       | 0.000993 |
+|    entropy        | -0.993   |
+|    epoch          | 142      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.38e+03 |
+|    loss           | -0.994   |
+|    neglogp        | -0.995   |
+|    prob_true_act  | 4.8      |
+|    samples_so_far | 6979584  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3431     |
+|    ent_loss       | 0.000996 |
+|    entropy        | -0.996   |
+|    epoch          | 143      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.39e+03 |
+|    loss           | -1.08    |
+|    neglogp        | -1.08    |
+|    prob_true_act  | 4.85     |
+|    samples_so_far | 7028736  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3455     |
+|    ent_loss       | 0.000999 |
+|    entropy        | -0.999   |
+|    epoch          | 144      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.4e+03  |
+|    loss           | -0.951   |
+|    neglogp        | -0.952   |
+|    prob_true_act  | 4.85     |
+|    samples_so_far | 7077888  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3479     |
+|    ent_loss       | 0.001    |
+|    entropy        | -1       |
+|    epoch          | 145      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.42e+03 |
+|    loss           | -0.928   |
+|    neglogp        | -0.929   |
+|    prob_true_act  | 4.81     |
+|    samples_so_far | 7127040  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3503     |
+|    ent_loss       | 0.001    |
+|    entropy        | -1       |
+|    epoch          | 146      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.44e+03 |
+|    loss           | -0.989   |
+|    neglogp        | -0.99    |
+|    prob_true_act  | 4.88     |
+|    samples_so_far | 7176192  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3527     |
+|    ent_loss       | 0.00101  |
+|    entropy        | -1.01    |
+|    epoch          | 147      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.45e+03 |
+|    loss           | -0.972   |
+|    neglogp        | -0.973   |
+|    prob_true_act  | 4.79     |
+|    samples_so_far | 7225344  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3551     |
+|    ent_loss       | 0.00101  |
+|    entropy        | -1.01    |
+|    epoch          | 148      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.46e+03 |
+|    loss           | -1.02    |
+|    neglogp        | -1.02    |
+|    prob_true_act  | 4.97     |
+|    samples_so_far | 7274496  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3575     |
+|    ent_loss       | 0.00101  |
+|    entropy        | -1.01    |
+|    epoch          | 149      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.47e+03 |
+|    loss           | -0.97    |
+|    neglogp        | -0.971   |
+|    prob_true_act  | 4.88     |
+|    samples_so_far | 7323648  |
+--------------------------------
+--------------------------------
+| batch_size        | 2048     |
+| bc/               |          |
+|    batch          | 3599     |
+|    ent_loss       | 0.00102  |
+|    entropy        | -1.02    |
+|    epoch          | 150      |
+|    l2_loss        | 0        |
+|    l2_norm        | 3.48e+03 |
+|    loss           | -1.04    |
+|    neglogp        | -1.04    |
+|    prob_true_act  | 4.9      |
+|    samples_so_far | 7372800  |
+--------------------------------
